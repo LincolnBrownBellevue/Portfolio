@@ -18,5 +18,9 @@ In this portfolio you will find these projects:
   <li>Building the Hadoop Ecosystem on a VM</li>
   <li>Credit Card Fraud Detection on Synthetic Datasets</li>
   <li>Project - Soon to come!</li>
-  <li>Projejct - Soon to come!</li>
+  <li>Project - Soon to come!</li>
 </ul>
+
+Thanks for visiting! 
+
+Please feel free to reach out if you have questions or comments. 
